@@ -68,12 +68,12 @@ options.csv: Reflects options trading data.
 Use: High or low option prices can indicate market sentiment about the stock's future direction.
 
 #### Main focus dataset : stock_prices.csv
-1.Open: First traded price on a day
-2.High: Highest traded price on a day
-3.Low : Lowest traded price on a day
-4.Close: Last traded price on a day
-5.Volume: Number of traded stocks on a day
-6.AdjustmentFactor:Change in stock price due to a split/reverse split. Correction from the closing price to the beginning of the next day.
-7.ExpectedDividend: Projected dividend amoun
-8.SupervisionFlag:Flag for supervised and delisted stocks. High risk of delisting
-9.Target:Target variable; rate of return derived from the difference between one and two days later
+1. Open: First traded price on a day
+2. High: Highest traded price on a day
+3. Low : Lowest traded price on a day
+4. Close: Last traded price on a day
+5. Volume: Number of traded stocks on a day
+6. AdjustmentFactor:Change in stock price due to a split/reverse split. Correction from the closing price to the beginning of the next day.
+7. ExpectedDividend: Projected dividend amoun
+8. SupervisionFlag:Flag for supervised and delisted stocks. High risk of delisting
+9. Target:Target variable; rate of return derived from the difference between one and two days later
