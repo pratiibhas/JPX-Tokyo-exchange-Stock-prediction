@@ -9,7 +9,7 @@ Main Findings
 Project Methodology
 Cycle Description
 01. Understand the data
-02. Data Preparation
+02. Data Preparation 
 03. Feature Engineering
 04. Exploratory Data Analysis (EDA)
 05. Data Preprocessing
@@ -39,7 +39,13 @@ As of June 2021, JPX is the world's fifth-largest stock exchange operator, behin
 
 
 ###  A Business Objective
-Rank the stocks from highest to lowest expected returns.
+A hypothetical situation:
+Business Question: Which stocks will perform best and which performs worst.
+Issue Owner and Motive: 
+Solution Format and Deliverables:
+Data Problem Type: stock price forecast
+Possible Solution Methods: Regression, Time Series, Neural Networks
+Deliverables: List of 
 
 ### 01. Understand the data
 Available data:
@@ -77,3 +83,5 @@ Use: High or low option prices can indicate market sentiment about the stock's f
 7. ExpectedDividend: Projected dividend amoun
 8. SupervisionFlag:Flag for supervised and delisted stocks. High risk of delisting
 9. Target:Target variable; rate of return derived from the difference between one and two days later
+
+### 02. Data Preparation
